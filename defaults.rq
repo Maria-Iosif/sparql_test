@@ -1,8 +1,8 @@
 #+ defaults:
 #+   - genre: https://dbpedia.org/resource/Rock_music
 
-PREFIX dbo: <https://dbpedia.org/ontology/>
-PREFIX dbp: <https://dbpedia.org/property/>
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX dbp: <http://dbpedia.org/property/>
 PREFIX schema: <http://schema.org/>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 
