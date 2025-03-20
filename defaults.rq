@@ -1,5 +1,6 @@
+#+ endpoint: https://dbpedia.org/sparql
 #+ defaults:
-#+   - genre: https://dbpedia.org/resource/Rock_music
+#+   - genre: http://dbpedia.org/resource/Rock_music
 
 PREFIX dbo: <http://dbpedia.org/ontology/>
 PREFIX dbp: <http://dbpedia.org/property/>
